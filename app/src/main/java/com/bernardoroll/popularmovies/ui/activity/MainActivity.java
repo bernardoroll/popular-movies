@@ -11,5 +11,9 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+
+        // TMDB API Key: d96ccf8f635f27487e875017b84b2490
     }
+
 }
